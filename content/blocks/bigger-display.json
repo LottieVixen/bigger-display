@@ -1,0 +1,17 @@
+{
+	"type": "LogicDisplay",
+	"name": "Bigger Display",
+	"category": "logic",
+	"research": "large-logic-display",
+	"requirements": [
+		"silicon/300",
+		"titanium/200",
+		"metaglass/150",
+		"surge-alloy/50"
+	],
+
+	"health": 4800,
+	"size": 21,
+	"displaySize": 640,
+	"maxSides": 64
+}
