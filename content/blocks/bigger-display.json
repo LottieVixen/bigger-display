@@ -12,6 +12,6 @@
 
 	"health": 4800,
 	"size": 14,
-	"displaySize": 640,
-	"maxSides": 64
+	"displaySize": 496,
+	"maxSides": 128
 }
