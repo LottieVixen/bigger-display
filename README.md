@@ -1,2 +1,2 @@
 # bigger-display
-640x640 display for mindustry
+432 by 432px display for mindustry
