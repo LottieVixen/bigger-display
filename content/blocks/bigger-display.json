@@ -6,8 +6,7 @@
 	"requirements": [
 		"silicon/300",
 		"titanium/200",
-		"metaglass/200",
-		"phaseFabric/150"
+		"metaglass/200"
 	],
 
 	"health": 4800,
