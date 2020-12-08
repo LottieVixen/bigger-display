@@ -1,6 +1,6 @@
 {
 	"type": "LogicDisplay",
-	"name": "Bigger Borderless Display",
+	"name": "Bigger Display Borderless",
 	"category": "logic",
 	"research": "large-logic-display",
 	"requirements": [
