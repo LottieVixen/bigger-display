@@ -1,0 +1,16 @@
+{
+	"type": "LogicDisplay",
+	"name": "Larger Borderless Display",
+	"category": "logic",
+	"research": "large-logic-display",
+	"requirements": [
+		"silicon/300",
+		"titanium/200",
+		"metaglass/200"
+	],
+
+	"health": 4800,
+	"size": 12,
+	"displaySize": 384,
+	"maxSides": 128
+}
